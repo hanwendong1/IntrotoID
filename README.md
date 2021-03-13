@@ -1,4 +1,4 @@
-# IntrotoID
+# Introduction to Instructional Design
 
 A Jekyll template for a simple website, with a [Bootstrap](https://getbootstrap.com/) theme, designed for hosting on [gh-pages](https://pages.github.com/).
 
