@@ -21,7 +21,7 @@ Since you have already selected your topic, this guide will focus on the other a
 
 ## What do instructional designers do
 
-According to <a href="https://onlinelearningconsortium.org/wp-content/uploads/2017/07/Instructional-Design-in-Higher-Education-Report.pdf" target="_blank"> Instructional Design in Higher Education </a>, Most instructional designers have four categories of responsibilities:
+According to <a href="https://onlinelearningconsortium.org/wp-content/uploads/2017/07/Instructional-Design-in-Higher-Education-Report.pdf" target="_blank"> Instructional Design in Higher Education</a>, Most instructional designers have four categories of responsibilities:
 1. Design instructional materials and courses, particularly for digital delivery 
 2. Manage the efforts of faculty, administration, IT, other instructional designers, and others to achieve better student learning 
 3. Train faculty to leverage technology and implement pedagogy effectively 
