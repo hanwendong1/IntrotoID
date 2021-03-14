@@ -15,7 +15,7 @@ Instructional design has the following characteristics<sup class="footnote-ref">
 -	Instructional design is empirical, iterative, and self-correcting. 
 -	Instructional design typically is a team effort. 
 
-{% include figure.html img="instruction_terms.png" alt="Relationships Among Terms Associated with Instruction (from Smith and Ragan)" caption="Relationships Among Terms Associated with Instruction (Smith and Ragan, 2004)" width="75%" %}
+{% include figure.html img="instruction_terms.png" alt="Relationships Among Terms Associated with Instruction (from Smith and Ragan)" caption="Relationships Among Terms Associated with Instruction (Smith and Ragan, 2005)" width="75%" %}<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a>:
 
 ## History of instructional design
 
@@ -31,5 +31,5 @@ According to <a href="https://onlinelearningconsortium.org/wp-content/uploads/20
 
 <hr class="footnotes-sep">
 <ol class="footnotes-list">
-<li id="fn1"  class="footnote-item"><p>Branch, R., & Merrill, D. (2012). Characteristics of Instructional Design Models. In <em>Trends and Issues in Instructional Design and Technology</em>. Pearson.</p></ol>
-
+<li id="fn1"  class="footnote-item"><p>Branch, R., & Merrill, D. (2012). Characteristics of Instructional Design Models. In <em>Trends and Issues in Instructional Design and Technology</em>. Pearson.</p>
+<li id="fn2"  class="footnote-item"><p>Branch, R., & Merrill, D. (2012). Characteristics of Instructional Design Models. In <em>Trends and Issues in Instructional Design and Technology</em>. Pearson.</p>
