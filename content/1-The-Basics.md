@@ -3,23 +3,25 @@ title: The Basics
 nav: true
 --- 
 
-When conducting college-level research, there is a general process to follow:
+## What is instructional design?
 
-{% capture text %}
+<p>Here is a footnote reference,<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> and another.<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></p>
+<p>This paragraph won’t be part of the note, because it
+isn’t indented.</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1"  class="footnote-item"><p>Here is the footnote. <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn2"  class="footnote-item"><p>Here’s one with multiple blocks.</p>
+<p>Subsequent paragraphs are indented to show that they
+belong to the previous footnote. <a href="#fnref2" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>
+## History of instructional design
 
-1. Select topic
-2. Use Boolean logic to expand or narrow key concepts or keywords
-3. Select a database
-4. Evaluate and revise search strategy
-5. Choose items and find full-text online or in print
-
-{% endcapture %}
-
-{% include card.md text=text header="Research Process" %}
-
-Since you have already selected your topic, this guide will focus on the other aspects of the research process. First, let’s talk about Boolean logic. 
-
-## What do instructional designers do
+## What do instructional designers do?
 
 According to <a href="https://onlinelearningconsortium.org/wp-content/uploads/2017/07/Instructional-Design-in-Higher-Education-Report.pdf" target="_blank"> Instructional Design in Higher Education</a>, Most instructional designers have four categories of responsibilities:
 1. Design instructional materials and courses, particularly for digital delivery 
