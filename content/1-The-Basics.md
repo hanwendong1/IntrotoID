@@ -47,5 +47,5 @@ According to <a href="https://onlinelearningconsortium.org/wp-content/uploads/20
 
 <hr class="footnotes-sep">
 <ol class="footnotes-list">
-<li id="fn1"  class="footnote-item"><p>Branch, R., & Merrill, D. (2012). Characteristics of Instructional Design Models. In <em>Trends and Issues in Instructional Design and Technology</em>. Pearson.</p>
+<li id="fn1"  class="footnote-item"><p>Branch, R., & Merrill, D. (2018). Characteristics of Instructional Design Models. In <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71254368710001451" target="_blank"><em>Trends and Issues in Instructional Design and Technology</em></a>. Pearson.</p>
 <li id="fn2"  class="footnote-item"><p>Branch, R., & Merrill, D. (2012). Characteristics of Instructional Design Models. In <em>Trends and Issues in Instructional Design and Technology</em>. Pearson.</p>
