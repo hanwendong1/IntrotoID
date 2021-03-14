@@ -17,22 +17,19 @@ Instructional design has the following characteristics<sup class="footnote-ref">
 
 {% include figure.html img="instruction_terms.png" alt="Relationships Among Terms Associated with Instruction (from Smith and Ragan)" caption="Relationships Among Terms Associated with Instruction (Smith and Ragan, 2005)" width="75%" <sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a> %}
 
-{% include figure.html img="instruction_terms.png" alt="Relationships Among Terms Associated with Instruction (from Smith and Ragan)" caption="Relationships Among Terms Associated with Instruction (Smith and Ragan, 2005)" width="75%" <sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a> %}
-
 <html>
 <body>
 <figure>
  <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/instruction_terms.png" alt="Relationships Among Terms Associated with Instruction" />
  <figcaption>
-
+<center>
  Relationships Among Terms Associated with Instruction
  <sup class="footnote-ref"><a href="#fn2" id="fnref2">
  [2]</a>
 </sup>
-
+</center>
  </figcaption>
 </figure>
-
 </body>
 </html>
 
