@@ -6,7 +6,6 @@ nav: true
 ## What is instructional design?
 
 <a href="https://www.td.org/talent-development-glossary-terms/what-is-instructional-design" target="_blank">Instructional design</a> is the creation of learning experiences and materials in a manner that results in the acquisition and application of knowledge and skills.
-
 Instructional design has the following characteristics<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a>:
 -	Instructional design is student centered.
 -	Instructional design is goal oriented.
@@ -22,14 +21,11 @@ Instructional design has gone through many changes over the years. Here’s a <a
 ## What do instructional designers do?
 
 According to <a href="https://onlinelearningconsortium.org/wp-content/uploads/2017/07/Instructional-Design-in-Higher-Education-Report.pdf" target="_blank"> Instructional Design in Higher Education</a>, Most instructional designers have four categories of responsibilities:
-1. **Desig**n instructional materials and courses, particularly for digital delivery 
+1. **Design** instructional materials and courses, particularly for digital delivery 
 2. **Manage** the efforts of faculty, administration, IT, other instructional designers, and others to achieve better student learning 
 3. **Train** faculty to leverage technology and implement pedagogy effectively 
 4. **Support** faculty when they run into technical or instructional challenges
 
 <hr class="footnotes-sep">
-<section class="footnotes">
-<ol class="footnotes-list">
 <li id="fn1"  class="footnote-item"><p>Branch, R., & Merrill, D. (2012). Characteristics of Instructional Design Models. In <em>Trends and Issues in Instructional Design and Technology</em>. Pearson.</p>
-</ol>
-</section>
+
