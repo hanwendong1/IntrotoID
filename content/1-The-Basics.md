@@ -7,7 +7,7 @@ nav: true
 
 <a href="https://www.td.org/talent-development-glossary-terms/what-is-instructional-design" target="_blank">Instructional design</a> is the creation of learning experiences and materials in a manner that results in the acquisition and application of knowledge and skills.
 
-Instructional design has the following characteristics<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></p>:
+Instructional design has the following characteristics<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a>:
 -	Instructional design is student centered.
 -	Instructional design is goal oriented.
 -	Instructional design focuses on meaningful performance. 
