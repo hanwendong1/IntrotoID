@@ -21,12 +21,11 @@ Instructional design has the following characteristics<sup class="footnote-ref">
 
 <html>
 <body>
-
-<h1>The figure and figcaption element</h1>
-
 <figure>
-  <img src="instruction_terms.png" alt="Trulli" style="width:100%">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+ <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/instruction_terms.png" alt="Small picture of a kitten" />
+ <figcaption>
+ Small picture of a kitten, graciously shared by <a href="http://placekitten.com">placekitten.com</a>
+ </figcaption>
 </figure>
 
 </body>
