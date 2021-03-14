@@ -17,17 +17,17 @@ Instructional design has the following characteristics<sup class="footnote-ref">
 
 <html>
 <body>
-<figure>
+<center>
+ <figure>
  <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/instruction_terms.png" alt="Relationships Among Terms Associated with Instruction" />
  <figcaption>
-<center>
  Relationships Among Terms Associated with Instruction
  <sup class="footnote-ref"><a href="#fn2" id="fnref2">
  [2]</a>
 </sup>
-</center>
  </figcaption>
 </figure>
+</center>
 </body>
 </html>
 
