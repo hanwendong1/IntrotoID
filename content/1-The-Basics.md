@@ -7,15 +7,13 @@ nav: true
 
 <a href="https://www.td.org/talent-development-glossary-terms/what-is-instructional-design" target="_blank">Instructional design</a> is the creation of learning experiences and materials in a manner that results in the acquisition and application of knowledge and skills.
 
-Instructional design, according to Reiser and Dempsey, has the following characteristics :
+Instructional design has the following characteristics<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></p>:
 -	Instructional design is student centered.
 -	Instructional design is goal oriented.
 -	Instructional design focuses on meaningful performance. 
 -	Instructional design assumes outcomes can be measured in a reliable and valid way.
 -	Instructional design is empirical, iterative, and self-correcting. 
 -	Instructional design typically is a team effort. 
-
-<p>Here is a footnote reference,<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></p>
 
 ## History of instructional design
 
@@ -32,6 +30,6 @@ According to <a href="https://onlinelearningconsortium.org/wp-content/uploads/20
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
-<li id="fn1"  class="footnote-item"><p>Here is the footnote.</p>
+<li id="fn1"  class="footnote-item"><p>Branch, R., & Merrill, D. (2012). Characteristics of Instructional Design Models. In *Trends and Issues in Instructional Design and Technology*. Pearson.</p>
 </ol>
 </section>
