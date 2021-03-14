@@ -16,6 +16,27 @@ Instructional design has the following characteristics<sup class="footnote-ref">
 -	Instructional design typically is a team effort. 
 
 <html>
+     <style>
+      img {
+        max-width: 100%;
+        max-height: 100%;
+      }
+      div {
+        border: 2px dotted #000000;
+      }
+      .portrait {
+        height: 100%;
+        width: 40px;
+      }
+      .landscape {
+        height: 100%;
+        width: 80px;
+      }
+      .square {
+        height: 100%;
+        width: 100px;
+      }
+    </style>
 <body>
 <center>
  <figure>
@@ -46,4 +67,4 @@ According to <a href="https://onlinelearningconsortium.org/wp-content/uploads/20
 <hr class="footnotes-sep">
 <ol class="footnotes-list">
 <li id="fn1"  class="footnote-item"><p>Branch, R., & Merrill, D. (2018). Characteristics of Instructional Design Models. <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71254368710001451" target="_blank"><em>Trends and Issues in Instructional Design and Technology</em></a>. Pearson.</p>
-<li id="fn2"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). Characteristics of Instructional Design Models. <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional Design</em></a>. John Wiley & Sons, Inc.</p>
+<li id="fn2"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional Design</em></a>. John Wiley & Sons, Inc.</p>
