@@ -17,6 +17,21 @@ Instructional design has the following characteristics<sup class="footnote-ref">
 
 {% include figure.html img="instruction_terms.png" alt="Relationships Among Terms Associated with Instruction (from Smith and Ragan)" caption="Relationships Among Terms Associated with Instruction (Smith and Ragan, 2005)" width="75%" <sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a> %}
 
+{% include figure.html img="instruction_terms.png" alt="Relationships Among Terms Associated with Instruction (from Smith and Ragan)" caption="Relationships Among Terms Associated with Instruction (Smith and Ragan, 2005)" width="75%" <sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a> %}
+
+<html>
+<body>
+
+<h1>The figure and figcaption element</h1>
+
+<figure>
+  <img src="instruction_terms.png" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
+</body>
+</html>
+
 ## History of instructional design
 
 Instructional design has gone through many changes over the years. Here’s a <a href="https://www.instructionaldesigncentral.com/instructional-design-history" target="_blank">visual timeline</a> that describes the major instructional design milestones. <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/1bsq4kj/TN_cdi_crossref_primary_10_1007_BF02504928" target="_blank">A History of Instructional Design and Technology: Part II: A History of Instructional Design</a> by Robert Reiser is another significant work on the history of the instructional design.
