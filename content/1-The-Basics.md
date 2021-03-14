@@ -17,25 +17,10 @@ Instructional design has the following characteristics<sup class="footnote-ref">
 
 <html>
      <style>
-      img {
-        max-width: 100%;
-        max-height: 100%;
-      }
-      div {
-        border: 2px dotted #000000;
-      }
-      .portrait {
-        height: 100%;
-        width: 40px;
-      }
-      .landscape {
-        height: 100%;
-        width: 80px;
-      }
-      .square {
-        height: 100%;
-        width: 100px;
-      }
+img {
+    max-width: 100%;
+    height: auto;
+    }
     </style>
 <body>
 <center>
