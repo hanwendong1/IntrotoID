@@ -5,21 +5,16 @@ nav: true
 
 ## What is instructional design?
 
-<p>Here is a footnote reference,<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> and another.<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></p>
-<p>This paragraph won’t be part of the note, because it
-isn’t indented.</p>
+<p>Here is a footnote reference,<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></p>
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
-<li id="fn1"  class="footnote-item"><p>Here is the footnote. <a href="#fnref1" class="footnote-backref">↩</a></p>
-</li>
-<li id="fn2"  class="footnote-item"><p>Here’s one with multiple blocks.</p>
-<p>Subsequent paragraphs are indented to show that they
-belong to the previous footnote. <a href="#fnref2" class="footnote-backref">↩</a></p>
-</li>
+<li id="fn1"  class="footnote-item"><p>Here is the footnote.</p>
 </ol>
 </section>
 ## History of instructional design
+
+Instructional design has gone through many changes over the years. Here’s a <a href="https://www.instructionaldesigncentral.com/instructional-design-history" target="_blank">visual timeline</a> that describes the major instructional design milestones. <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/1bsq4kj/TN_cdi_crossref_primary_10_1007_BF02504928" target="_blank">A History of Instructional Design and Technology: Part II: A History of Instructional Design</a> by Robert Reiser is another significant work on the history of the instructional design.
 
 ## What do instructional designers do?
 
