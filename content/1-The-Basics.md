@@ -24,7 +24,7 @@ Instructional design has the following characteristics<sup class="footnote-ref">
 <figure>
  <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/instruction_terms.png" alt="Small picture of a kitten" />
  <figcaption>
- Small picture of a kitten, graciously shared by <a href="http://placekitten.com">placekitten.com</a>
+ Relationships Among Terms Associated with Instruction  <sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a>
  </figcaption>
 </figure>
 
