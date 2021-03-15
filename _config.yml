@@ -31,7 +31,7 @@ url: https://hanwendong1.github.io
 # on gh-pages this is a / followed by the name of the repository
 baseurl: /IntrotoID
 
-# add search box to footer?
+# add search box to footer? 
 search: true
 
 # add google analytics if desired (optional)
