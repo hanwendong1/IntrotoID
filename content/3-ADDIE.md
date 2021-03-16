@@ -5,20 +5,20 @@ nav: true
 
 ## Analysis
 
-### Performance Analysis
+#### Performance Analysis
 
-### Other Types of Analysis 
+#### Other Types of Analysis 
 
 ## Design
 
-### Learning Taxonomies, Learning Objectives and Assessment 
+#### Learning Taxonomies, Learning Objectives and Assessment 
 
-### Instructional Strategies 
+#### Instructional Strategies 
 
 ## Development
 
-### Multimedia principles
+#### Multimedia principles
 
-### Common Software
+#### Common Software
 
 ## Evaluation
