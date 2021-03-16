@@ -16,7 +16,7 @@ img {
 <body>
 <center>
  <figure>
- <img src="https://github.com/hanwendong1/IntrotoID/blob/master/images/learning_theories.png" alt="learning theories" />
+ <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/learning_theories.png" alt="learning theories" />
  <figcaption>
  Learning Theories
  <sup class="footnote-ref"><a href="#fn1" id="fnref1">
@@ -42,7 +42,7 @@ img {
 <body>
 <center>
  <figure>
- <img src="https://github.com/hanwendong1/IntrotoID/blob/master/images/ADDIE.png" alt="The ADDIE Model" />
+ <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/ADDIE.png" alt="The ADDIE Model" />
  <figcaption>
  The ADDIE Model
  <sup class="footnote-ref"><a href="#fn2" id="fnref2">
@@ -62,5 +62,5 @@ All instructional design models are some variations of ADDIE. Some well-known in
 
 <hr class="footnotes-sep">
 <ol class="footnotes-list">
-<li id="fn1"  class="footnote-item"><p>Branch, R., & Merrill, D. (2018). Characteristics of Instructional Design Models. <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71254368710001451" target="_blank"><em>Trends and Issues in Instructional Design and Technology</em></a>. Pearson.</p>
-<li id="fn2"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional Design</em></a>. John Wiley & Sons, Inc.</p>
+<li id="fn1"  class="footnote-item"><p>Tasheva, Z., & Bogdanov, R. (2018). A relationship between cognitive information processing in learning theory and machine learning techniques in cognitive radios. <em>SOCIETY. INTEGRATION. EDUCATION. Proceedings of the International Scientific Conference</em></a>. 465(5).</p>
+<li id="fn2"  class="footnote-item"><p>McGriff, S. J. (2000). <a href="https://www.lib.purdue.edu/sites/default/files/directory/butler38/ADDIE.pdf" target="_blank"><em>Instructional System Design (ISD): Using the ADDIE Model</em></a>. Penn State University.</p>
