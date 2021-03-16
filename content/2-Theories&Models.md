@@ -10,7 +10,7 @@ nav: true
 
 ## ADDIE
 
-The <a href="https://www.instructionaldesigncentral.com/addie-model" target="_blank">ADDIE instructional design model</a>is the generic process traditionally used by instructional designers and training developers to create learning content and experiences. Most of the current instructional design models are spin-offs or variations of the ADDIE instructional design model.  
+The <a href="https://www.instructionaldesigncentral.com/addie-model" target="_blank">ADDIE instructional design model</a> is the generic process traditionally used by instructional designers and training developers to create learning content and experiences. Most of the current instructional design models are spin-offs or variations of the ADDIE instructional design model.  
 
 {% include figure.html img="ADDIE.png" alt="The ADDIE Model; Image from Instructional System Design (ISD): Using the ADDIE Model by Steven J. McGriff" width="75%" %}
 
