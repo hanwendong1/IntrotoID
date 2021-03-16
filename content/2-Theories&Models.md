@@ -4,7 +4,7 @@ nav: true
 ---
 
 ## Learning Theories
-<a href="https://www.instructionaldesigncentral.com/learning-theory/" target="_blank">Learning theories</a> are abstract frameworks that describe how knowledge is received and processed during the learning experience. Learning theory informs the application of instructional design through models.  
+<a href="https://www.instructionaldesigncentral.com/learning-theory/" target="_blank">Learning theories</a> are abstract frameworks that describe how knowledge is received and processed during the learning experience. Learning theory informs the application of instructional design through models.
 
 <html>
      <style>
