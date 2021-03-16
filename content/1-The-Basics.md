@@ -18,7 +18,7 @@ Instructional design has the following characteristics<sup class="footnote-ref">
 <html>
      <style>
 img {
-    max-width: 100%;
+    max-width: 75%;
     height: auto;
     }
     </style>
