@@ -6,7 +6,7 @@ nav: true
 ## Learning Theories
 <a href="https://www.instructionaldesigncentral.com/learning-theory/" target="_blank">Learning theories</a> are abstract frameworks that describe how knowledge is received and processed during the learning experience. Learning theory informs the application of instructional design through models.  
 
-{% include figure.html img="learning_theories.png" alt="learning theories" caption="Behaviourism, Cognitivism and Constructivism as Learning Theories; image from A Relationship Between Cognitive Information Processing In Learning Theory And Machine Learning Techniques In Cognitive Radios by Zhaneta Tasheva & Rosen Bogdanov (2018)" width="75%" %}
+{% include figure.html img="learning_theories.png" alt="learning theories" caption="caption" width="75%" %}
 
 ## ADDIE
 
