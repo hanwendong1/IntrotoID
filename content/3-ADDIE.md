@@ -3,6 +3,14 @@ title: ADDIE
 nav: true
 ---
 
+  <div class="text-center">
+    <a href="#Analysis" class="btn btn-secondary btn-sm my-2" >Analysis</a>
+    <a href="#Design" class="btn btn-secondary btn-sm my-2" >Design</a>
+    <a href="#Development" class="btn btn-secondary btn-sm my-2" >Development</a>
+    <a href="#Implementation" class="btn btn-secondary btn-sm my-2" >Implementation</a>
+    <a href="#Evaluation" class="btn btn-secondary btn-sm my-2" >Evaluation</a>
+  </div>
+  
 ## Analysis
 
 #### Performance Analysis
