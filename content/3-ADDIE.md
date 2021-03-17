@@ -74,7 +74,7 @@ One method that can be useful when writing a learning objective or outcome is th
             <th style="background-color: #f1b300; color: white; text-align:Center">Assessment</th>
          </tr>
          <tr>
-            <th style="text-align:Center">Describe the different types of analysis</td>
+            <td style="text-align:Center">Describe the different types of analysis</td>
             <td style="text-align:Center">At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy.</td>
             <td style="text-align:Center">Please complete the following paragraph by filling in the blanks: Once __ analysis (also called front-end analysis) is completed, we are ready to begin the ‘formal’ instructional design process. Then, we conduct __ analysis (also called gap analysis) to determine how to solve the problem through a combination of the __ analysis, __ analysis, and __ analysis. Lastly, we conduct __ to break down the project goals into skills and knowledge.
 </td>
@@ -155,7 +155,7 @@ img {
 <body>
 <center>
  <figure>
- <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/media_types.jpg" alt="Example Media Types And Tools For Various Instructional Purposes" />
+ <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/media_types.png" alt="Example Media Types And Tools For Various Instructional Purposes" />
  <figcaption>
 Example Media Types And Tools For Various Instructional Purposes
  <sup class="footnote-ref"><a href="#fn3" id="fnref3">
