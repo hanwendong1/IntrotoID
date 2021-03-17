@@ -208,29 +208,29 @@ For the summative evaluation, we select an evaluation model (i.e., <a href="http
    <body>
       <table>
          <tr>
-            <th style="background-color: #f1b300; color: white; text-align:Center"> </th>
-            <th style="background-color: #f1b300; color: white; text-align:Center">Formative Evaluation</th>
-            <th style="background-color: #f1b300; color: white; text-align:Center">Summative Evaluation</th>
+            <th style="background-color: #f1b300; color: white; text-align:Left"> </th>
+            <th style="background-color: #f1b300; color: white; text-align:Left">Formative Evaluation</th>
+            <th style="background-color: #f1b300; color: white; text-align:Left">Summative Evaluation</th>
          </tr>
          <tr>
-            <td style="text-align:Center">Purpose</td>
-            <td style="text-align:Center">Locate weaknesses in instruction in order to revise it</td>
-            <td style="text-align:Center">Document the degree to which skills learned during instruction transferred to the jobsite</td>
+            <td style="text-align:Left">Purpose</td>
+            <td style="text-align:Left">Locate weaknesses in instruction in order to revise it</td>
+            <td style="text-align:Left">Document the degree to which skills learned during instruction transferred to the jobsite</td>
          </tr>
          <tr>
-            <td style="text-align:Center">Phases or stages</td>
-            <td style="text-align:Center">One-to-one; Small group; Impact evaluation</td>
-            <td style="text-align:Center">Expert judgment; Impact analysis</td>
+            <td style="text-align:Left">Phases or stages</td>
+            <td style="text-align:Left">One-to-one; Small group; Impact evaluation</td>
+            <td style="text-align:Left">Expert judgment; Impact analysis</td>
          </tr>
          <tr>
-            <td style="text-align:Center">Position of evaluator</td>
-            <td style="text-align:Center">Member of design and development team</td>
-            <td style="text-align:Center">Typically an external evaluator</td>
+            <td style="text-align:Left">Position of evaluator</td>
+            <td style="text-align:Left">Member of design and development team</td>
+            <td style="text-align:Left">Typically an external evaluator</td>
          </tr>
          <tr>
-            <td style="text-align:Center">Outcomes</td>
-            <td style="text-align:Center">A prescription for revising instruction</td>
-            <td style="text-align:Center">A report documenting the soundness of the instruction and the impact the instruction had on the work, the job, and the organization</td>
+            <td style="text-align:Left">Outcomes</td>
+            <td style="text-align:Left">A prescription for revising instruction</td>
+            <td style="text-align:Left">A report documenting the soundness of the instruction and the impact the instruction had on the work, the job, and the organization</td>
          </tr>           
       </table>
    </body>
