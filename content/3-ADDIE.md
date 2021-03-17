@@ -17,9 +17,9 @@ img {
 <body>
 <center>
  <figure>
- <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/performance_analysis.jpg" alt="Instructional design process" />
+ <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/performance_analysis.jpg" alt="Instructional Design Process" />
  <figcaption>
-Instructional design process
+Instructional Design Process
  <sup class="footnote-ref"><a href="#fn1" id="fnref1">
  [1]</a>
 </sup>
@@ -158,8 +158,8 @@ img {
  <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/media_types.PNG" alt="Example Media Types And Tools For Various Instructional Purposes" />
  <figcaption>
 Example Media Types And Tools For Various Instructional Purposes
- <sup class="footnote-ref"><a href="#fn3" id="fnref3">
- [3]</a>
+ <sup class="footnote-ref"><a href="#fn4" id="fnref4">
+ [4]</a>
 </sup>
  </figcaption>
 </figure>
@@ -176,6 +176,9 @@ During this stage, the materials created during development are introduced to th
 3. Preparing the environment
 
 ## Evaluation
+
+There are two types of evaluations. One is **formative evaluation** where instructional designers collect data and information during the development of instruction to improve the effectiveness of the instruction. The other one is **summative evaluation** where evaluators collect data to determine the effectiveness of instruction after its final version is produced. For this final summative evaluation, we select an evaluation model (i.e., <a href="https://educationaltechnology.net/kirkpatrick-model-four-levels-learning-evaluation/" target="_blank">Kirkpatrick’s model</a>). This is where we determine if the learners learned, if they enjoyed the training, if it’s being applied to their job, if it solved the problem, and the return on investment.
+
 <hr class="footnotes-sep">
 <ol class="footnotes-list">
 <li id="fn1"  class="footnote-item"><p>Pastore, R. (2020). <a href="https://www.raypastore.com/ISDBook-Final.pdf" target="_blank"><em>The Instructional Design and Development Process: A ‘How To’ Guide for Practitioners</em></a>. Kindle Direct Publishing.</p>
