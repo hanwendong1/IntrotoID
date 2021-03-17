@@ -46,7 +46,7 @@ One method that can be useful when writing a learning objective or outcome is th
 4.	Degree: To what degree of mastery -- how well must it be done (speed, accuracy, quality, etc.)?
 
 {% capture text %} An Example of Learning Objectives using the A.B.C.D. Method: At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy."{% endcapture %}
-{% include alert.md text=text color="secondary" %}
+{% include alert.md text=text color="primary" %}
 
 <html>
    <head>
@@ -74,9 +74,9 @@ One method that can be useful when writing a learning objective or outcome is th
             <th style="background-color: #f1b300; color: white; text-align:Center">Assessment</th>
          </tr>
          <tr>
-            <th style="text-align:Center">Describe the different types of analysis</th>
-            <td style="text-align:Left">At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy.</td>
-            <td style="text-align:Left">Please complete the following paragraph by filling in the blanks: Once __ analysis (also called front-end analysis) is completed, we are ready to begin the ‘formal’ instructional design process. Then, we conduct __ analysis (also called gap analysis) to determine how to solve the problem through a combination of the __ analysis, __ analysis, and __ analysis. Lastly, we conduct __ to break down the project goals into skills and knowledge.
+            <th style="text-align:Center">Describe the different types of analysis</td>
+            <td style="text-align:Center">At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy.</td>
+            <td style="text-align:Center">Please complete the following paragraph by filling in the blanks: Once __ analysis (also called front-end analysis) is completed, we are ready to begin the ‘formal’ instructional design process. Then, we conduct __ analysis (also called gap analysis) to determine how to solve the problem through a combination of the __ analysis, __ analysis, and __ analysis. Lastly, we conduct __ to break down the project goals into skills and knowledge.
 </td>
          </tr>
       </table>
@@ -128,11 +128,18 @@ Richard Mayer is professor of psychology at the University of California, Santa 
                           <th style="background-color: #f1b300; color: white; text-align:Center">Images</th>
          </tr>
          <tr>
-            <th style="text-align:Center">Captivate</th> 
-            <td style="text-align:Left">Camtasia</td>
-            <td style="text-align:Left">Audacity</td>
-                          <td style="text-align:Left">MS word</td>
-                          <td style="text-align:Left">Photoshop</td>
+            <th style="text-align:Center">Captivate</td> 
+            <td style="text-align:Center">Camtasia</td>
+            <td style="text-align:Center">Audacity</td>
+            <td style="text-align:Left">MS word</td>
+            <td style="text-align:Left">Photoshop</td>
+         </tr>
+         <tr>
+            <th style="text-align:Center">Articulate</td> 
+            <td style="text-align:Center">Adobe Premiere Pro; Final Cut Pro</td>
+            <td style="text-align:Center">Adobe Audition</td>
+            <td style="text-align:Left">InDesign</td>
+            <td style="text-align:Left">Illustrator</td>
          </tr>
       </table>
    </body>
