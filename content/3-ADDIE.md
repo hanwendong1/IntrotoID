@@ -88,8 +88,9 @@ One method that can be useful when writing a learning objective or outcome is th
 #### Instructional Strategies 
 
 Instructional designers use strategies to ensure that instruction engages learners through teaching/learning activities, such as group discussions, independent reading, case studies, lectures, worksheets, group projects, etc. There are three types of instructional strategies - organizational, delivery, and management<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a>.
-Organizational – Organizational strategies are used to sequence instruction and present the content. The most well-known organizational strategy is Gagné's Nine Events of Instruction (https://www.valpo.edu/vital/files/2015/12/gagne_nine_events.pdf). Merrill’s First Principles Of Instruction (http://instructionaldesign.io/toolkit/merrill/) is another popular organizational strategy. 
-Delivery – delivery strategies are used to choose instructional medium. Examples include Problem-Based Learning (https://teaching.cornell.edu/teaching-resources/engaging-students/problem-based-learning), chunking (https://www.nngroup.com/articles/chunking/), gamification (https://ii.library.jhu.edu/2014/05/13/what-is-gamification-and-why-use-it-in-teaching/), and more (https://kean.edu/~tpc/Instructional%20Strategies.pdf). 
+     
+- Organizational strategies are used to sequence instruction and present the content. The most well-known organizational strategy is <a href="https://www.valpo.edu/vital/files/2015/12/gagne_nine_events.pdf" target="_blank">Gagné's Nine Events of Instruction</a>. <a href="http://instructionaldesign.io/toolkit/merrill/" target="_blank">Merrill’s First Principles Of Instruction</a> is another popular organizational strategy. 
+- Delivery strategies are used to choose instructional medium. Examples include <a href="https://teaching.cornell.edu/teaching-resources/engaging-students/problem-based-learning" target="_blank">Problem-Based Learning</a>, <a href="https://www.nngroup.com/articles/chunking/" target="_blank">chunking</a>, <a href="https://ii.library.jhu.edu/2014/05/13/what-is-gamification-and-why-use-it-in-teaching/" target="_blank">gamification</a>, and <a href="https://kean.edu/~tpc/Instructional%20Strategies.pdf" target="_blank">more</a>. 
 
 
 ## Development
