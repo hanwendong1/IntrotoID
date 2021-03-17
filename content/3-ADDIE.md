@@ -30,12 +30,14 @@ Instructional Design Process
 </html>
 
 In addition to performance analysis, <a href="https://www.devlinpeck.com/posts/analysis-instructional-design" target="_blank">other types of analysis</a> include:
-- Learner Analysis - What are the characteristics of the learners?
+- Learner Analysis – What are the characteristics of the learners?
 - Context analysis – In what kind of conditions will the learners be trained and acquire their new skills?
 - Gap analysis – what is the current and the desired state?
 - Task analysis – What knowledge and skills will the learners acquire?
 
 ## Design
+
+#### Learning taxonomies, Learning Objectives and Assessment 
 
 After completing task analysis, instructional designers can begin writing learning objectives. To demonstrate that students have achieved the desired outcome, a <a href="https://bokcenter.harvard.edu/taxonomies-learning" target="_blank">taxonomy of learning</a> can be useful for defining the types of work that we want our students to do. Popular taxonomies include <a href="https://tips.uark.edu/using-blooms-taxonomy/" target="_blank">Bloom’s taxonomy</a> and David Merrill's <a href="https://www.instructionaldesign.org/theories/component-display/" target="_blank">Component Display Theory</a>.
 
@@ -177,7 +179,57 @@ During this stage, the materials created during development are introduced to th
 
 ## Evaluation
 
-There are two types of evaluations. One is **formative evaluation** where instructional designers collect data and information during the development of instruction to improve the effectiveness of the instruction. The other one is **summative evaluation** where evaluators collect data to determine the effectiveness of instruction after its final version is produced. For this final summative evaluation, we select an evaluation model (i.e., <a href="https://educationaltechnology.net/kirkpatrick-model-four-levels-learning-evaluation/" target="_blank">Kirkpatrick’s model</a>). This is where we determine if the learners learned, if they enjoyed the training, if it’s being applied to their job, if it solved the problem, and the return on investment.
+There are two types of evaluations. One is **formative evaluation** where instructional designers collect data and information during the development of instruction to improve the effectiveness of the instruction. The other one is **summative evaluation** where evaluators collect data to determine the effectiveness of instruction after its final version is produced. See a comparison of formative and summative evaluation below<sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a>. 
+For the summative evaluation, we select an evaluation model (i.e., <a href="https://educationaltechnology.net/kirkpatrick-model-four-levels-learning-evaluation/" target="_blank">Kirkpatrick’s model</a>). This is where we determine if the learners learned, if they enjoyed the training, if it’s being applied to their job, if it solved the problem, and the return on investment.
+
+<html>
+   <head>
+      <style>
+         table {width: 100%;}
+         table, td, th {
+            border-collapse: collapse;
+            padding: 8px;
+            border-bottom: 1px solid #ddd;
+         th {            
+            style="text-align:Center"
+            border: 1px solid black;
+            padding-top: 12px;
+            padding-bottom: 12px;
+            background-color: #f1b300;
+            color: white;
+            }
+      </style>
+   </head>
+   <body>
+      <table>
+         <tr>
+            <th style="background-color: #f1b300; color: white; text-align:Center"> </th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Formative Evaluation</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Summative Evaluation</th>
+         </tr>
+         <tr>
+            <td style="text-align:Center">Purpose</td>
+            <td style="text-align:Center">Locate weaknesses in instruction in order to revise it</td>
+            <td style="text-align:Center">Document the degree to which skills learned during instruction transferred to the jobsite</td>
+         </tr>
+         <tr>
+            <td style="text-align:Center">Phases or stages</td>
+            <td style="text-align:Center">One-to-one; Small group; Impact evaluation</td>
+            <td style="text-align:Center">Expert judgment; Impact analysis</td>
+         </tr>
+         <tr>
+            <td style="text-align:Center">Position of evaluator</td>
+            <td style="text-align:Center">Member of design and development team</td>
+            <td style="text-align:Center">Typically an external evaluator</td>
+         </tr>
+         <tr>
+            <td style="text-align:Center">Outcomes</td>
+            <td style="text-align:Center">A prescription for revising instruction</td>
+            <td style="text-align:Center">A report documenting the soundness of the instruction and the impact the instruction had on the work, the job, and the organization</td>
+         </tr>           
+      </table>
+   </body>
+</html>
 
 <hr class="footnotes-sep">
 <ol class="footnotes-list">
@@ -185,4 +237,5 @@ There are two types of evaluations. One is **formative evaluation** where instru
 <li id="fn2"  class="footnote-item"><p>Heinich, R. (1996). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71152673350001451" target="_blank"><em>
 Instructional media and technologies for learning</em></a>. Merrill</em>.</p>
 <li id="fn3"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional design</em></a>. John Wiley & Sons, Inc.</p>
-<li id="fn4"  class="footnote-item"><p>Shank, P. (2008). <a href="https://www.academia.edu/887046/The_value_of_multimedia_in_learning" target="_blank"><em>The Value of Multimedia in Learning</em></a>. The eLearning Guild.</p>     
+<li id="fn4"  class="footnote-item"><p>Shank, P. (2008). <a href="https://www.academia.edu/887046/The_value_of_multimedia_in_learning" target="_blank"><em>The Value of Multimedia in Learning</em></a>. The eLearning Guild.</p>  
+<li id="fn5"  class="footnote-item"><pDick, W., Carey, Lou., & Carey, James O. (2015). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71334736690001451" target="_blank"><em>The systematic design of instruction</em></a>. Pearson.</p>       
