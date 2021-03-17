@@ -42,10 +42,10 @@ In addition to performance analysis, <a href="https://www.devlinpeck.com/posts/a
 After completing task analysis, instructional designers can begin writing learning objectives. To demonstrate that students have achieved the desired outcome, a <a href="https://bokcenter.harvard.edu/taxonomies-learning" target="_blank">taxonomy of learning</a> can be useful for defining the types of work that we want our students to do. Popular taxonomies include <a href="https://tips.uark.edu/using-blooms-taxonomy/" target="_blank">Bloom’s taxonomy</a> and David Merrill's <a href="https://www.instructionaldesign.org/theories/component-display/" target="_blank">Component Display Theory</a>.
 
 One common method to write a learning objective or outcome is the A. B. C. D. method<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a>:
-1.	Audience: Who are your learners (who will be doing the performance)?
-2.	Behavior: Describe the task or behavior using action verbs -- be sure it is something that can be heard or something that is observable.
-3.	Conditions: Under what conditions (what tools, aids or reference materials can the learner use? Are there things that they won't be able to use?)
-4.	Degree: To what degree of mastery -- how well must it be done (speed, accuracy, quality, etc.)?
+1. **Audience**: Who are your learners (who will be doing the performance)?
+2. **Behavior**: Describe the task or behavior using action verbs -- be sure it is something that can be heard or something that is observable.
+3. **Conditions**: Under what conditions (what tools, aids or reference materials can the learner use? Are there things that they won't be able to use?)
+4. **Degree**: To what degree of mastery -- how well must it be done (speed, accuracy, quality, etc.)?
 
 {% capture text %} An Example of Learning Objectives using the A.B.C.D. Method: At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy."{% endcapture %}
 {% include alert.md text=text color="primary" %}
@@ -83,6 +83,8 @@ One common method to write a learning objective or outcome is the A. B. C. D. me
          </tr>
       </table>
    </body>
+          <p>
+     </p>
 </html>
 
 #### Instructional Strategies 
@@ -143,6 +145,8 @@ Richard Mayer is professor of psychology at the University of California, Santa 
          </tr>
       </table>
    </body>
+     <p>
+     </p>
 </html>
 
 Instructional designers use these tools to create deliverables to meet the needs of instruction. Below is a table that shows several example media types and tools for various instructional purposes.
@@ -180,6 +184,7 @@ During this stage, the materials created during development are introduced to th
 ## Evaluation
 
 There are two types of evaluations. One is **formative evaluation** where instructional designers collect data and information during the development of instruction to improve the effectiveness of the instruction. The other one is **summative evaluation** where evaluators collect data to determine the effectiveness of instruction after its final version is produced. See a comparison of formative and summative evaluation below<sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a>. 
+     
 For the summative evaluation, we select an evaluation model (i.e., <a href="https://educationaltechnology.net/kirkpatrick-model-four-levels-learning-evaluation/" target="_blank">Kirkpatrick’s model</a>). This is where we determine if the learners learned, if they enjoyed the training, if it’s being applied to their job, if it solved the problem, and the return on investment.
 
 <html>
