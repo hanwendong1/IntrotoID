@@ -44,6 +44,7 @@ One method that can be useful when writing a learning objective or outcome is th
 2.	Behavior: Describe the task or behavior using action verbs -- be sure it is something that can be heard or something that is observable.
 3.	Conditions: Under what conditions (what tools, aids or reference materials can the learner use? Are there things that they won't be able to use?)
 4.	Degree: To what degree of mastery -- how well must it be done (speed, accuracy, quality, etc.)?
+
 {% include feature/alert.html text="An Example of Learning Objectives using the A.B.C.D. Method: At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy." color="info" align="center" %}
 
 <html>
@@ -74,8 +75,7 @@ One method that can be useful when writing a learning objective or outcome is th
          <tr>
             <th style="text-align:Center">Describe the different types of analysis</th>
             <td style="text-align:Left">At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy.</td>
-            <td style="text-align:Left">Please complete the following paragraph by filling in the blanks.
-Once __ analysis (also called front-end analysis) is completed, we are ready to begin the ‘formal’ instructional design process. Then, we conduct __ analysis (also called gap analysis) to determine how to solve the problem through a combination of the ¬__ analysis, __ analysis, and __ analysis. Lastly, we conduct __ to break down the project goals into skills and knowledge.
+            <td style="text-align:Left">td
 </td>
          </tr>
       </table>
