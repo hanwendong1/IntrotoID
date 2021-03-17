@@ -131,15 +131,15 @@ Richard Mayer is professor of psychology at the University of California, Santa 
             <th style="text-align:Center">Captivate</td> 
             <td style="text-align:Center">Camtasia</td>
             <td style="text-align:Center">Audacity</td>
-            <td style="text-align:Left">MS word</td>
-            <td style="text-align:Left">Photoshop</td>
+            <td style="text-align:Center">MS word</td>
+            <td style="text-align:Center">Photoshop</td>
          </tr>
          <tr>
             <th style="text-align:Center">Articulate</td> 
             <td style="text-align:Center">Adobe Premiere Pro; Final Cut Pro</td>
             <td style="text-align:Center">Adobe Audition</td>
-            <td style="text-align:Left">InDesign</td>
-            <td style="text-align:Left">Illustrator</td>
+            <td style="text-align:Center">InDesign</td>
+            <td style="text-align:Center">Illustrator</td>
          </tr>
       </table>
    </body>
