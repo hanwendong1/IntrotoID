@@ -143,6 +143,30 @@ Richard Mayer is professor of psychology at the University of California, Santa 
    </body>
 </html>
 
+Instructional designers use these tools to create deliverables to meet the needs of instruction. Below is a table that shows several example media types and tools for various instructional purposes.
+
+<html>
+     <style>
+img {
+    max-width: 75%;
+    height: auto;
+    }
+    </style>
+<body>
+<center>
+ <figure>
+ <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/media_types.jpg" alt="Example Media Types And Tools For Various Instructional Purposes" />
+ <figcaption>
+Example Media Types And Tools For Various Instructional Purposes
+ <sup class="footnote-ref"><a href="#fn3" id="fnref3">
+ [3]</a>
+</sup>
+ </figcaption>
+</figure>
+</center>
+</body>
+</html>
+
 ## Implementation
 
 During this stage, the materials created during development are introduced to the target audience and the learning process starts. Depending on the chosen format, the <a href="https://elearningindustry.com/getting-know-addie-implementation" target="_blank">implementation stage</a> will likely include the following main steps to a greater or lesser degree:
@@ -158,3 +182,4 @@ During this stage, the materials created during development are introduced to th
 <li id="fn1"  class="footnote-item"><p>Pastore, R. (2020). <a href="https://www.raypastore.com/ISDBook-Final.pdf" target="_blank">The Instructional Design and Development Process: A ‘How To’ Guide for Practitioners</a>. <em>Kindle Direct
 Publishing</em>.</p>
 <li id="fn2"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional design</em></a>. John Wiley & Sons, Inc.</p>
+<li id="fn3"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional design</em></a>. John Wiley & Sons, Inc.</p>     
