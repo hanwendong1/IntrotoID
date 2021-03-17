@@ -126,14 +126,14 @@ Richard Mayer is professor of psychology at the University of California, Santa 
                           <th style="background-color: #f1b300; color: white; text-align:Center">Images</th>
          </tr>
          <tr>
-            <th style="text-align:Center">Captivate</td> 
+            <td style="text-align:Center">Captivate</td> 
             <td style="text-align:Center">Camtasia</td>
             <td style="text-align:Center">Audacity</td>
             <td style="text-align:Center">MS word</td>
             <td style="text-align:Center">Photoshop</td>
          </tr>
          <tr>
-            <th style="text-align:Center">Articulate</td> 
+            <td style="text-align:Center">Articulate</td> 
             <td style="text-align:Center">Adobe Premiere Pro; Final Cut Pro</td>
             <td style="text-align:Center">Adobe Audition</td>
             <td style="text-align:Center">InDesign</td>
@@ -182,4 +182,4 @@ During this stage, the materials created during development are introduced to th
 <li id="fn1"  class="footnote-item"><p>Pastore, R. (2020). <a href="https://www.raypastore.com/ISDBook-Final.pdf" target="_blank">The Instructional Design and Development Process: A ‘How To’ Guide for Practitioners</a>. <em>Kindle Direct
 Publishing</em>.</p>
 <li id="fn2"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional design</em></a>. John Wiley & Sons, Inc.</p>
-<li id="fn3"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional design</em></a>. John Wiley & Sons, Inc.</p>     
+<li id="fn3"  class="footnote-item"><p>Shank, P. (2008). <a href="https://www.academia.edu/887046/The_value_of_multimedia_in_learning" target="_blank"><em>The Value of Multimedia in Learning</em></a>. The eLearning Guild.</p>     
