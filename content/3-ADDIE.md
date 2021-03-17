@@ -17,7 +17,7 @@ img {
 <body>
 <center>
  <figure>
- <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/performance_analysis.png" alt="Instructional design process" />
+ <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/performance_analysis.jpg" alt="Instructional design process" />
  <figcaption>
 Instructional design process
  <sup class="footnote-ref"><a href="#fn1" id="fnref1">
