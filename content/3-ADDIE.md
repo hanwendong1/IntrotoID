@@ -46,7 +46,7 @@ One method that can be useful when writing a learning objective or outcome is th
 4.	Degree: To what degree of mastery -- how well must it be done (speed, accuracy, quality, etc.)?
 
 {% capture text %} An Example of Learning Objectives using the A.B.C.D. Method: At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy."{% endcapture %}
-{% include alert.md text=text color="warning" %}
+{% include alert.md text=text color="secondary" %}
 
 <html>
    <head>
@@ -71,7 +71,7 @@ One method that can be useful when writing a learning objective or outcome is th
          <tr>
             <th style="background-color: #f1b300; color: white; text-align:Center">Task</th>
             <th style="background-color: #f1b300; color: white; text-align:Center">Objective</th>
-            <th style="background-color: #f1b300; color: white; text-align:Center">Assessment </th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Assessment</th>
          </tr>
          <tr>
             <th style="text-align:Center">Describe the different types of analysis</th>
@@ -92,12 +92,53 @@ Instructional designers use strategies to ensure that instruction engages learne
 - Organizational strategies are used to sequence instruction and present the content. The most well-known organizational strategy is <a href="https://www.valpo.edu/vital/files/2015/12/gagne_nine_events.pdf" target="_blank">Gagné's Nine Events of Instruction</a>. <a href="http://instructionaldesign.io/toolkit/merrill/" target="_blank">Merrill’s First Principles Of Instruction</a> is another popular organizational strategy. 
 - Delivery strategies are used to choose instructional medium. Examples include <a href="https://teaching.cornell.edu/teaching-resources/engaging-students/problem-based-learning" target="_blank">Problem-Based Learning</a>, <a href="https://www.nngroup.com/articles/chunking/" target="_blank">chunking</a>, <a href="https://ii.library.jhu.edu/2014/05/13/what-is-gamification-and-why-use-it-in-teaching/" target="_blank">gamification</a>, and <a href="https://kean.edu/~tpc/Instructional%20Strategies.pdf" target="_blank">more</a>. 
 
-
 ## Development
 
 #### Multimedia principles
 
+Richard Mayer is professor of psychology at the University of California, Santa Barbara. In 2001, he set out his <a href="http://instructionaldesign.io/toolkit/mayer/" target="_blank">principles for multimedia learning</a>, which have become a standardised approach in instructional design methods. Here’s an article on the <a href="https://www.linkedin.com/pulse/cognitive-load-theory-part-ii-mayers-multimedia-borg%C3%BE%C3%B3r-%C3%A1sgeirsson" target="_blank">examples of Mayer’s principles application</a>.
+
 #### Common Software
+
+<html>
+   <head>
+      <style>
+         table {width: 100%;}
+         table, td, th {
+            border-collapse: collapse;
+            padding: 8px;
+            border-bottom: 1px solid #ddd;
+         th {            
+            style="text-align:Center"
+            border: 1px solid black;
+            padding-top: 12px;
+            padding-bottom: 12px;
+            background-color: #f1b300;
+            color: white;
+            }
+      </style>
+   </head>
+   <body>
+      <table>
+         <tr>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Authoring</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Video</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Audio</th>
+                          <th style="background-color: #f1b300; color: white; text-align:Center">Document</th>
+                          <th style="background-color: #f1b300; color: white; text-align:Center">Images</th>
+         </tr>
+         <tr>
+            <th style="text-align:Center">Captivate</th> 
+            <td style="text-align:Left">Camtasia</td>
+            <td style="text-align:Left">Audacity</td>
+                          <td style="text-align:Left">MS word</td>
+                          <td style="text-align:Left">Photoshop</td>
+         </tr>
+      </table>
+   </body>
+   <p>
+   </p>
+</html>
 
 ## Implementation
 
