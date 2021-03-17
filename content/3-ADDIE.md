@@ -33,7 +33,7 @@ In addition to performance analysis, <a href="https://www.devlinpeck.com/posts/a
 - Learner Analysis – What are the characteristics of the learners?
 - Context analysis – In what kind of conditions will the learners be trained and acquire their new skills?
 - Gap analysis – what is the current and the desired state?
-- Task analysis – What knowledge and skills will the learners acquire?
+- Task analysis – What knowledge and skills will the learners acquire? <a href="https://docs.google.com/document/d/e/2PACX-1vRo_KRFmWHzxhePScyiircZtK_cTjZtBF2udAdZDH53uTlapINEGmzvORFToPBtBafsuAPHTndb1k0R/pub" target="_blank">See example</a>.
 
 ## Design
 
