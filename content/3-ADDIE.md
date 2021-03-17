@@ -71,14 +71,14 @@ One common method to write a learning objective or outcome is the A. B. C. D. me
    <body>
       <table>
          <tr>
-            <th style="background-color: #f1b300; color: white; text-align:Center">Task</th>
-            <th style="background-color: #f1b300; color: white; text-align:Center">Objective</th>
-            <th style="background-color: #f1b300; color: white; text-align:Center">Assessment</th>
+            <th style="background-color: #f1b300; color: white; text-align:Left">Task</th>
+            <th style="background-color: #f1b300; color: white; text-align:Left">Objective</th>
+            <th style="background-color: #f1b300; color: white; text-align:Left">Assessment</th>
          </tr>
          <tr>
-            <td style="text-align:Center">Describe the different types of analysis</td>
-            <td style="text-align:Center">At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy.</td>
-            <td style="text-align:Center">Please complete the following paragraph by filling in the blanks: Once __ analysis (also called front-end analysis) is completed, we are ready to begin the ‘formal’ instructional design process. Then, we conduct __ analysis (also called gap analysis) to determine how to solve the problem through a combination of the __ analysis, __ analysis, and __ analysis. Lastly, we conduct __ to break down the project goals into skills and knowledge.
+            <td style="text-align:Left">Describe the different types of analysis</td>
+            <td style="text-align:Left">At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy.</td>
+            <td style="text-align:Left">Please complete the following paragraph by filling in the blanks: Once __ analysis (also called front-end analysis) is completed, we are ready to begin the ‘formal’ instructional design process. Then, we conduct __ analysis (also called gap analysis) to determine how to solve the problem through a combination of the __ analysis, __ analysis, and __ analysis. Lastly, we conduct __ to break down the project goals into skills and knowledge.
 </td>
          </tr>
       </table>
@@ -240,7 +240,7 @@ For the summative evaluation, we select an evaluation model (i.e., <a href="http
 <ol class="footnotes-list">
 <li id="fn1"  class="footnote-item"><p>Pastore, R. (2020). <a href="https://www.raypastore.com/ISDBook-Final.pdf" target="_blank"><em>The Instructional Design and Development Process: A ‘How To’ Guide for Practitioners</em></a>. Kindle Direct Publishing.</p>
 <li id="fn2"  class="footnote-item"><p>Heinich, R. (1996). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71152673350001451" target="_blank"><em>
-Instructional media and technologies for learning</em></a>. Merrill</em>.</p>
+Instructional media and technologies for learning</em></a>. Merrill.</p>
 <li id="fn3"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional design</em></a>. John Wiley & Sons, Inc.</p>
 <li id="fn4"  class="footnote-item"><p>Shank, P. (2008). <a href="https://www.academia.edu/887046/The_value_of_multimedia_in_learning" target="_blank"><em>The Value of Multimedia in Learning</em></a>. The eLearning Guild.</p>  
 <li id="fn5"  class="footnote-item"><p>Dick, W., Carey, Lou., & Carey, James O. (2015). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71334736690001451" target="_blank"><em>The systematic design of instruction</em></a>. Pearson.</p>       
