@@ -39,7 +39,7 @@ In addition to performance analysis, <a href="https://www.devlinpeck.com/posts/a
 
 After completing task analysis, instructional designers can begin writing learning objectives. To demonstrate that students have achieved the desired outcome, a <a href="https://bokcenter.harvard.edu/taxonomies-learning" target="_blank">taxonomy of learning</a> can be useful for defining the types of work that we want our students to do. Popular taxonomies include <a href="https://tips.uark.edu/using-blooms-taxonomy/" target="_blank">Bloom’s taxonomy</a> and David Merrill's <a href="https://www.instructionaldesign.org/theories/component-display/" target="_blank">Component Display Theory</a>.
 
-One method that can be useful when writing a learning objective or outcome is the  <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71152673350001451" target="_blank">A. B. C. D. method</a>:
+One common method to write a learning objective or outcome is the A. B. C. D. method<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a>:
 1.	Audience: Who are your learners (who will be doing the performance)?
 2.	Behavior: Describe the task or behavior using action verbs -- be sure it is something that can be heard or something that is observable.
 3.	Conditions: Under what conditions (what tools, aids or reference materials can the learner use? Are there things that they won't be able to use?)
@@ -85,10 +85,10 @@ One method that can be useful when writing a learning objective or outcome is th
 
 #### Instructional Strategies 
 
-Instructional designers use strategies to ensure that instruction engages learners through teaching/learning activities, such as group discussions, independent reading, case studies, lectures, worksheets, group projects, etc. There are three types of instructional strategies - organizational, delivery, and management<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a>.
+Instructional designers use strategies to ensure that instruction engages learners through teaching/learning activities, such as group discussions, independent reading, case studies, lectures, worksheets, group projects, etc. There are three types of instructional strategies - organizational, delivery, and management<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a>.
      
-- Organizational strategies are used to sequence instruction and present the content. The most well-known organizational strategy is <a href="https://www.valpo.edu/vital/files/2015/12/gagne_nine_events.pdf" target="_blank">Gagné's Nine Events of Instruction</a>. <a href="http://instructionaldesign.io/toolkit/merrill/" target="_blank">Merrill’s First Principles Of Instruction</a> is another popular organizational strategy. 
-- Delivery strategies are used to choose instructional medium. Examples include <a href="https://teaching.cornell.edu/teaching-resources/engaging-students/problem-based-learning" target="_blank">Problem-Based Learning</a>, <a href="https://www.nngroup.com/articles/chunking/" target="_blank">chunking</a>, <a href="https://ii.library.jhu.edu/2014/05/13/what-is-gamification-and-why-use-it-in-teaching/" target="_blank">gamification</a>, and <a href="https://kean.edu/~tpc/Instructional%20Strategies.pdf" target="_blank">more</a>. 
+- **Organizational strategies** are used to sequence instruction and present the content. The most well-known organizational strategy is <a href="https://www.valpo.edu/vital/files/2015/12/gagne_nine_events.pdf" target="_blank">Gagné's Nine Events of Instruction</a>. <a href="http://instructionaldesign.io/toolkit/merrill/" target="_blank">Merrill’s First Principles Of Instruction</a> is another popular organizational strategy. 
+- **Delivery strategies** are used to choose instructional medium. Examples include <a href="https://teaching.cornell.edu/teaching-resources/engaging-students/problem-based-learning" target="_blank">Problem-Based Learning</a>, <a href="https://www.nngroup.com/articles/chunking/" target="_blank">chunking</a>, <a href="https://ii.library.jhu.edu/2014/05/13/what-is-gamification-and-why-use-it-in-teaching/" target="_blank">gamification</a>, and <a href="https://kean.edu/~tpc/Instructional%20Strategies.pdf" target="_blank">more</a>. 
 
 ## Development
 
@@ -155,7 +155,7 @@ img {
 <body>
 <center>
  <figure>
- <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/media_types.png" alt="Example Media Types And Tools For Various Instructional Purposes" />
+ <img src="https://raw.githubusercontent.com/hanwendong1/IntrotoID/master/images/media_types.PNG" alt="Example Media Types And Tools For Various Instructional Purposes" />
  <figcaption>
 Example Media Types And Tools For Various Instructional Purposes
  <sup class="footnote-ref"><a href="#fn3" id="fnref3">
@@ -176,10 +176,10 @@ During this stage, the materials created during development are introduced to th
 3. Preparing the environment
 
 ## Evaluation
-
 <hr class="footnotes-sep">
 <ol class="footnotes-list">
-<li id="fn1"  class="footnote-item"><p>Pastore, R. (2020). <a href="https://www.raypastore.com/ISDBook-Final.pdf" target="_blank">The Instructional Design and Development Process: A ‘How To’ Guide for Practitioners</a>. <em>Kindle Direct
-Publishing</em>.</p>
-<li id="fn2"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional design</em></a>. John Wiley & Sons, Inc.</p>
-<li id="fn3"  class="footnote-item"><p>Shank, P. (2008). <a href="https://www.academia.edu/887046/The_value_of_multimedia_in_learning" target="_blank"><em>The Value of Multimedia in Learning</em></a>. The eLearning Guild.</p>     
+<li id="fn1"  class="footnote-item"><p>Pastore, R. (2020). <a href="https://www.raypastore.com/ISDBook-Final.pdf" target="_blank"><em>The Instructional Design and Development Process: A ‘How To’ Guide for Practitioners</em></a>. Kindle Direct Publishing.</p>
+<li id="fn2"  class="footnote-item"><p>Heinich, R. (1996). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71152673350001451" target="_blank"><em>
+Instructional media and technologies for learning</em></a>. Merrill</em>.</p>
+<li id="fn3"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional design</em></a>. John Wiley & Sons, Inc.</p>
+<li id="fn4"  class="footnote-item"><p>Shank, P. (2008). <a href="https://www.academia.edu/887046/The_value_of_multimedia_in_learning" target="_blank"><em>The Value of Multimedia in Learning</em></a>. The eLearning Guild.</p>     
