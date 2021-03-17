@@ -54,7 +54,6 @@ One method that can be useful when writing a learning objective or outcome is th
             border-collapse: collapse;
             padding: 8px;
             border-bottom: 1px solid #ddd;
-         
          th {            
             style="text-align:Center"
             border: 1px solid black;
