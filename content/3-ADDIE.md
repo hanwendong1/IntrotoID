@@ -81,8 +81,6 @@ One method that can be useful when writing a learning objective or outcome is th
          </tr>
       </table>
    </body>
-   <p>
-   </p>
 </html>
 
 #### Instructional Strategies 
@@ -143,8 +141,6 @@ Richard Mayer is professor of psychology at the University of California, Santa 
          </tr>
       </table>
    </body>
-   <p>
-   </p>
 </html>
 
 ## Implementation
