@@ -45,11 +45,13 @@ One method that can be useful when writing a learning objective or outcome is th
 3.	Conditions: Under what conditions (what tools, aids or reference materials can the learner use? Are there things that they won't be able to use?)
 4.	Degree: To what degree of mastery -- how well must it be done (speed, accuracy, quality, etc.)?
 
+{% capture text %} An Example of Learning Objectives using the A.B.C.D. Method: At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy."{% endcapture %}
+{% include alert.md text=text color="warning" %}
 
 <html>
    <head>
       <style>
-         table {width: 75%;}
+         table {width: 100%;}
          table, td, th {
             border-collapse: collapse;
             padding: 8px;
