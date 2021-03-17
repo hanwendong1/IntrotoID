@@ -37,8 +37,53 @@ In addition to performance analysis, <a href="https://www.devlinpeck.com/posts/a
 
 ## Design
 
-#### Learning Taxonomies, Learning Objectives and Assessment 
+After completing task analysis, instructional designers can begin writing learning objectives. To demonstrate that students have achieved the desired outcome, a <a href="https://bokcenter.harvard.edu/taxonomies-learning" target="_blank">taxonomy of learning</a> can be useful for defining the types of work that we want our students to do. Popular taxonomies include <a href="https://tips.uark.edu/using-blooms-taxonomy/" target="_blank">Bloom’s taxonomy</a> and David Merrill's <a href="https://www.instructionaldesign.org/theories/component-display/" target="_blank">Component Display Theory</a>.
 
+One method that can be useful when writing a learning objective or outcome is the  <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71152673350001451" target="_blank">A. B. C. D. method</a>:
+1.	Audience: Who are your learners (who will be doing the performance)?
+2.	Behavior: Describe the task or behavior using action verbs -- be sure it is something that can be heard or something that is observable.
+3.	Conditions: Under what conditions (what tools, aids or reference materials can the learner use? Are there things that they won't be able to use?)
+4.	Degree: To what degree of mastery -- how well must it be done (speed, accuracy, quality, etc.)?
+{% include feature/alert.html text="An Example of Learning Objectives using the A.B.C.D. Method: At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy." color="info" align="center" %}
+
+<html>
+   <head>
+      <style>
+         table {width: 75%;}
+         table, td, th {
+            border-collapse: collapse;
+            padding: 8px;
+            border-bottom: 1px solid #ddd;
+         
+         th {            
+            style="text-align:Center"
+            border: 1px solid black;
+            padding-top: 12px;
+            padding-bottom: 12px;
+            background-color: #f1b300;
+            color: white;
+            }
+      </style>
+   </head>
+   <body>
+      <table>
+         <tr>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Task</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Objective</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Assessment </th>
+         </tr>
+         <tr>
+            <th style="text-align:Center">Describe the different types of analysis</th>
+            <td style="text-align:Left">At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy.</td>
+            <td style="text-align:Left">Please complete the following paragraph by filling in the blanks.
+Once __ analysis (also called front-end analysis) is completed, we are ready to begin the ‘formal’ instructional design process. Then, we conduct __ analysis (also called gap analysis) to determine how to solve the problem through a combination of the ¬__ analysis, __ analysis, and __ analysis. Lastly, we conduct __ to break down the project goals into skills and knowledge.
+</td>
+         </tr>
+      </table>
+   </body>
+   <p>
+   </p>
+</html>
 #### Instructional Strategies 
 
 ## Development
