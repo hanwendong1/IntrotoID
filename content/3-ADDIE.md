@@ -133,7 +133,7 @@ Richard Mayer is professor of psychology at the University of California, Santa 
             <td style="text-align:Center">Captivate</td> 
             <td style="text-align:Center">Camtasia</td>
             <td style="text-align:Center">Audacity</td>
-            <td style="text-align:Center">MS word</td>
+            <td style="text-align:Center">MS Word</td>
             <td style="text-align:Center">Photoshop</td>
          </tr>
          <tr>
