@@ -138,7 +138,7 @@ Richard Mayer is professor of psychology at the University of California, Santa 
          </tr>
          <tr>
             <td style="text-align:Center">Articulate</td> 
-            <td style="text-align:Center">Adobe Premiere Pro; Final Cut Pro</td>
+            <td style="text-align:Center">Adobe Premiere Pro</td>
             <td style="text-align:Center">Adobe Audition</td>
             <td style="text-align:Center">InDesign</td>
             <td style="text-align:Center">Illustrator</td>
