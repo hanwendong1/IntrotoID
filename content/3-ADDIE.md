@@ -143,6 +143,13 @@ Richard Mayer is professor of psychology at the University of California, Santa 
             <td style="text-align:Center">InDesign</td>
             <td style="text-align:Center">Illustrator</td>
          </tr>
+          <tr>
+            <td style="text-align:Center"> </td> 
+            <td style="text-align:Center">Final Cut Pro</td>
+            <td style="text-align:Center"> </td>
+            <td style="text-align:Center"> </td>
+            <td style="text-align:Center"> </td>
+         </tr>
       </table>
    </body>
      <p>
