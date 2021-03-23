@@ -130,22 +130,22 @@ Richard Mayer is professor of psychology at the University of California, Santa 
                           <th style="background-color: #f1b300; color: white; text-align:Center">Images</th>
          </tr>
          <tr>
-            <td style="text-align:Center"><a href="https://articulate.com/" target="_blank">Captivate</a></td> 
-            <td style="text-align:Center">Camtasia</td>
-            <td style="text-align:Center">Audacity</td>
-            <td style="text-align:Center">MS Word</td>
-            <td style="text-align:Center">Photoshop</td>
+            <td style="text-align:Center"><a href="https://articulate.com/" target="_blank">Articulate</a></td> 
+            <td style="text-align:Center"><a href="https://www.techsmith.com/video-editor.html" target="_blank">Camtasia</a></td>
+            <td style="text-align:Center"><a href="https://www.audacityteam.org/" target="_blank">Audacity</a></td>
+            <td style="text-align:Center"><a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">Microsoft Word</a></td>
+            <td style="text-align:Center"><a href="https://www.adobe.com/products/photoshop.html" target="_blank">Adobe Photoshop</a></td>
          </tr>
          <tr>
-            <td style="text-align:Center">Articulate</td> 
-            <td style="text-align:Center">Adobe Premiere Pro</td>
-            <td style="text-align:Center">Adobe Audition</td>
-            <td style="text-align:Center">InDesign</td>
-            <td style="text-align:Center">Illustrator</td>
+            <td style="text-align:Center"><a href="https://www.adobe.com/products/captivate.html" target="_blank">Captivate</a></td> 
+            <td style="text-align:Center"><a href="https://www.adobe.com/products/premiere.html" target="_blank">Adobe Premiere Pro</a></td>
+            <td style="text-align:Center"><a href="https://www.adobe.com/products/audition.html" target="_blank">Adobe Audition</a></td>
+            <td style="text-align:Center"><a href="https://www.adobe.com/products/indesign.html" target="_blank">Adobe InDesign</a></td>
+            <td style="text-align:Center"><a href="https://www.adobe.com/products/illustrator.html" target="_blank">Adobe Illustrator</a></td>
          </tr>
           <tr>
             <td style="text-align:Center"> </td> 
-            <td style="text-align:Center">Final Cut Pro</td>
+            <td style="text-align:Center"><a href="https://www.apple.com/final-cut-pro/" target="_blank">Final Cut Pro</a></td>
             <td style="text-align:Center"> </td>
             <td style="text-align:Center"> </td>
             <td style="text-align:Center"> </td>
