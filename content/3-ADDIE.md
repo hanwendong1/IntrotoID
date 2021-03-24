@@ -78,7 +78,7 @@ One common method to write a learning objective or outcome is the A. B. C. D. me
          <tr>
             <td style="text-align:Left">Describe the different types of analysis</td>
             <td style="text-align:Left">At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy.</td>
-            <td style="text-align:Left">Please complete the following paragraph by filling in the blanks: Once __ analysis (also called front-end analysis) is completed, we are ready to begin the ‘formal’ instructional design process. Then, we conduct __ analysis (also called gap analysis) to determine how to solve the problem through a combination of the __ analysis, __ analysis, and __ analysis. Lastly, we conduct __ to break down the project goals into skills and knowledge.
+            <td style="text-align:Left"><u>Please complete the following paragraph by filling in the blanks:</u> Once __ analysis (also called front-end analysis) is completed, we are ready to begin the ‘formal’ instructional design process. Then, we conduct __ analysis (also called gap analysis) to determine how to solve the problem through a combination of the __ analysis, __ analysis, and __ analysis. Lastly, we conduct __ to break down the project goals into skills and knowledge.
 </td>
          </tr>
       </table>
