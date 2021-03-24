@@ -3,7 +3,7 @@ title: Resources
 nav: true
 ---
 
-
+<i class="fa fa-link"></i>
 @fa-link 
 @icn-camera
 <a href="https://www.webpages.uidaho.edu/cetl/workshops/" target="_blank">Teaching Workshops by the Center for Excellence in Teaching and Learning (CETL)</a>
