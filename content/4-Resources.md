@@ -3,6 +3,7 @@ title: Resources
 nav: true
 ---
 
+## Teaching
 <i class="fa fa-link"></i><a href="https://www.webpages.uidaho.edu/cetl/workshops/" target="_blank">Teaching Workshops by the Center for Excellence in Teaching and Learning (CETL)</a>
 
 ## Online teaching and learning 
