@@ -3,6 +3,8 @@ title: Resources
 nav: true
 ---
 
+@icn-camera
+@fa-link
 <i class="fa fa-link">Configuration</i> 
 Configuration can be launched from the **Tools -> Settings** menu option.
 <a href="https://www.webpages.uidaho.edu/cetl/workshops/" target="_blank">Teaching Workshops by the Center for Excellence in Teaching and Learning (CETL)</a>
