@@ -31,11 +31,11 @@ nav: true
 
 ## Professional Organizations 
 
-<i class="fa fa-link"></i><a href="http://onlinelearningconsortium.org/" target="_blank">Online Learning Consortium (OLC)</a>
+<i class="fa fa-link"></i> <a href="http://onlinelearningconsortium.org/" target="_blank">Online Learning Consortium (OLC)</a>
 
-<i class="fa fa-link"></i><a href="https://www.td.org/" target="_blank">Association for Talent Development (ATD)</a>
+<i class="fa fa-link"></i> <a href="https://www.td.org/" target="_blank">Association for Talent Development (ATD)</a>
 
-<i class="fa fa-link"></i><a href="http://www.aect.org/" target="_blank">Association for Educational Communications and Technology (AECT)</a>
+<i class="fa fa-link"></i> <a href="http://www.aect.org/" target="_blank">Association for Educational Communications and Technology (AECT)</a>
 
 ## Post-Workshop Survey
 Please consider taking a moment to fill out <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_896L3kppowCEN6K" target="_blank">an optional, anonymous survey</a>. Your input is greatly appreciated <i class="far fa-smile"></i>
