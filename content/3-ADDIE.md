@@ -245,9 +245,9 @@ For the summative evaluation, we select an evaluation model (i.e., <a href="http
 
 <hr class="footnotes-sep">
 <ol class="footnotes-list">
-<li id="fn1"  class="footnote-item"><p>Pastore, R. (2020). <a href="https://www.raypastore.com/ISDBook-Final.pdf" target="_blank"><em>The Instructional Design and Development Process: A ‘How To’ Guide for Practitioners</em></a>. Kindle Direct Publishing.</p>
+<li id="fn1"  class="footnote-item"><p>Pastore, R. (2020). <a href="https://www.raypastore.com/ISDBook-Final.pdf" target="_blank"><em>The instructional design and development process: A ‘how to’ guide for practitioners</em></a>. Kindle Direct Publishing.</p>
 <li id="fn2"  class="footnote-item"><p>Heinich, R. (1996). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71152673350001451" target="_blank"><em>
 Instructional media and technologies for learning</em></a>. Merrill.</p>
 <li id="fn3"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional design</em></a>. John Wiley & Sons, Inc.</p>
-<li id="fn4"  class="footnote-item"><p>Shank, P. (2008). <a href="https://www.academia.edu/887046/The_value_of_multimedia_in_learning" target="_blank"><em>The Value of Multimedia in Learning</em></a>. The eLearning Guild.</p>  
+<li id="fn4"  class="footnote-item"><p>Shank, P. (2008). <a href="https://www.academia.edu/887046/The_value_of_multimedia_in_learning" target="_blank"><em>The value of multimedia in learning</em></a>. The eLearning Guild.</p>  
 <li id="fn5"  class="footnote-item"><p>Dick, W., Carey, Lou., & Carey, James O. (2015). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71334736690001451" target="_blank"><em>The systematic design of instruction</em></a>. Pearson.</p>       
