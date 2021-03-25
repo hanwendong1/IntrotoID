@@ -51,5 +51,5 @@ According to <a href="https://onlinelearningconsortium.org/wp-content/uploads/20
 
 <hr class="footnotes-sep">
 <ol class="footnotes-list">
-<li id="fn1"  class="footnote-item"><p>Branch, R., & Merrill, D. (2018). Characteristics of Instructional Design Models. <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71254368710001451" target="_blank"><em>Trends and Issues in Instructional Design and Technology</em></a>. Pearson.</p>
-<li id="fn2"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional Design</em></a>. John Wiley & Sons, Inc.</p>
+<li id="fn1"  class="footnote-item"><p>Branch, R., & Merrill, D. (2018). Characteristics of instructional design models. <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71254368710001451" target="_blank"><em>Trends and Issues in Instructional Design and Technology</em></a>. Pearson.</p>
+<li id="fn2"  class="footnote-item"><p>Smith, P. L., & Ragan, Tillman J. (2005). <a href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71158395410001451" target="_blank"><em>Instructional design</em></a>. John Wiley & Sons, Inc.</p>
