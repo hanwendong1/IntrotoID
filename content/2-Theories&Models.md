@@ -62,5 +62,5 @@ All instructional design models are some variations of ADDIE. Some well-known in
 
 <hr class="footnotes-sep">
 <ol class="footnotes-list">
-<li id="fn1"  class="footnote-item"><p>Tasheva, Z., & Bogdanov, R. (2018). A relationship between cognitive information processing in learning theory and machine learning techniques in cognitive radios. <em>SOCIETY. INTEGRATION. EDUCATION. Proceedings of the International Scientific Conference</em>. 465(5).</p>
+<li id="fn1"  class="footnote-item"><p> Kelly, J. (2012). <a href="https://thepeakperformancecenter.com/educational-learning/learning/theories/" target="_blank"><em>Learning theories</em></a>. The Peak Performance Center.</p>
 <li id="fn2"  class="footnote-item"><p>McGriff, S. J. (2000). <a href="https://www.lib.purdue.edu/sites/default/files/directory/butler38/ADDIE.pdf" target="_blank"><em>Instructional System Design (ISD): Using the ADDIE model</em></a>. Penn State University.</p>
