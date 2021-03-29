@@ -47,7 +47,7 @@ One common method to write a learning objective or outcome is the A. B. C. D. me
 3. **Conditions**: Under what conditions (what tools, aids or reference materials can the learner use? Are there things that they won't be able to use?)
 4. **Degree**: To what degree of mastery -- how well must it be done (speed, accuracy, quality, etc.)?
 
-{% capture text %} An Example of Learning Objectives using the A.B.C.D. Method: At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy."{% endcapture %}
+{% capture text %} An example of learning objectives using the A.B.C.D. method: At the end of the workshop, participants will be able to describe the different types of analysis with 100% accuracy."{% endcapture %}
 {% include alert.md text=text color="primary" %}
 
 <html>
