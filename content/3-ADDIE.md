@@ -137,7 +137,7 @@ Richard Mayer is professor of psychology at the University of California, Santa 
             <td style="text-align:Center"><a href="https://www.adobe.com/products/photoshop.html" target="_blank">Adobe Photoshop</a></td>
          </tr>
          <tr>
-            <td style="text-align:Center"><a href="https://www.adobe.com/products/captivate.html" target="_blank">Captivate</a></td> 
+            <td style="text-align:Center"><a href="https://www.adobe.com/products/captivate.html" target="_blank">Adobe Captivate</a></td> 
             <td style="text-align:Center"><a href="https://www.adobe.com/products/premiere.html" target="_blank">Adobe Premiere Pro</a></td>
             <td style="text-align:Center"><a href="https://www.adobe.com/products/audition.html" target="_blank">Adobe Audition</a></td>
             <td style="text-align:Center"><a href="https://www.adobe.com/products/indesign.html" target="_blank">Adobe InDesign</a></td>
