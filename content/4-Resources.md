@@ -37,5 +37,5 @@ nav: true
 
 <i class="fa fa-link"></i> <a href="http://www.aect.org/" target="_blank">Association for Educational Communications and Technology (AECT)</a>
 
-## Post-Workshop Survey
-Please consider taking a moment to fill out <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_896L3kppowCEN6K" target="_blank">an optional, anonymous survey</a>. Your input is greatly appreciated <i class="far fa-smile"></i>
+## Other
+The recording of this library workshop can be found on the <a href="https://youtu.be/xfkbyCzkb0Q" target="_blank">UofILibrary YouTube channel</a>. 
